@@ -1,0 +1,26 @@
+Product: PHP HR
+Version: 11.0.3
+Website: https://www.phphr.com/
+Release Date: 11-11-2022
+Last Update: 14-03-2023
+Update URL: https://www.phphr.com/phphr11/
+
+
+License Key: https://www.phphr.com/product/php-hr-license-key/
+Demo: https://www.phphr.com/hr-software-demo/
+Installation: https://www.phphr.com/installation/
+Documentation: https://www.phphr.com/documentation/
+FAQs: https://www.phphr.com/faqs/
+
+
+
+Social Presence: 
+
+ WhatsApp: +91-757-949-1111
+ Fb: https://www.facebook.com/phphr
+ Tw: https://twitter.com/phphrm
+ Liken: https://www.linkedin.com/company/phpcrm
+ Inst: https://www.instagram.com/phpcrm/
+ YouTube: https://www.youtube.com/phpcrm
+ Pinterest: https://in.pinterest.com/crmphp
+ Tumblr: https://phpcrm.tumblr.com/
